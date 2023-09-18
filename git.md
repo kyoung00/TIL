@@ -28,4 +28,4 @@
 
 - `git push`
     -원격저장소에 로컬 코드를 업로드 하기 위한 명령어
-    - `git puch <remote> <branch>`
+    - `git push <remote> <branch>`
